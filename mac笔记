@@ -1,0 +1,2 @@
+下列命令是安装brew的,它与ubuntu中的apt-get一样
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
